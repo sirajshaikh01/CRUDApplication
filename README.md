@@ -86,3 +86,7 @@ Body: {
 
 10. Delete Product (DELETE):
  DELETE http://localhost:8080/api/products/{id}
+
+
+<img width="785" alt="DB" src="https://github.com/user-attachments/assets/4a4ef0bb-fc18-4484-aa9a-5dd09cfa0a54">
+
