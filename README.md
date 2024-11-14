@@ -12,7 +12,6 @@
 4. Configure the database connection in `src/main/resources/application.properties`:
 spring.datasource.url=jdbc:mysql://localhost:3306/category_product
 spring.datasource.username=your_username
-
 spring.datasource.password=your_password
 
 Replace `your_username` and `your_password` with your MySQL credentials.
