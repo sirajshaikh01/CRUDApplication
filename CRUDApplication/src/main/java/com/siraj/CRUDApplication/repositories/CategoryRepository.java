@@ -1,0 +1,7 @@
+package com.siraj.CRUDApplication.repositories;
+
+import com.siraj.CRUDApplication.entity.Category;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CategoryRepository extends JpaRepository<Category, Long> {
+}
